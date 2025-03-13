@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ranjan-portfolio
+- 👋 Hi, I’m @ranjanabha bhattacharya
 - 👀 I’m interested in springboot,microservice,unix,sql/plsql,nosql,react,devops and AWS
 - 🌱 I’m currently building sample projects to showcase my skills
 - 💞️ I’m looking to collaborate on springboot,microservice,unix,sql/plsql,nosql and react
